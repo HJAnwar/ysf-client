@@ -1,0 +1,12 @@
+.logarea button{
+    width: 250px;
+    background-color: white;
+    color: yellowgreen;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+.logarea button img{
+    margin-left: -10;
+    width: 40px;
+}

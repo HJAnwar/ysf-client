@@ -1,0 +1,39 @@
+.donateBtn {
+    border: none;
+    margin-right: 30px;
+    background-color: #e0177f;
+    color: white;
+    font-weight: bolder;
+    padding: 12px;
+    border-radius: 2px;
+}
+
+.DonateFormStyle form input {
+    width: 350px;
+    height: 40px;
+    margin: 15px;
+    border: 1px solid rgb(207, 165, 172);
+    border-radius: 5px;
+    outline: none;
+    padding-left: 10px;
+}
+
+.DonateFormStyle form {
+    padding: 12px;
+    border: 2px solid pink;
+}
+
+.DonateSubmitBtn {
+    background-color: rgb(211, 186, 153);
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.payBkash {
+    margin-left: 15px;
+    border: 1px solid rgb(207, 165, 172);
+    width: 350px;
+    padding: 10px;
+    text-align: justify;
+}

@@ -1,0 +1,23 @@
+.activeMember{
+    
+        width: 350px;
+        height: 40px;
+        margin: 15px;
+        border: 1px solid rgb(207, 165, 172);
+        border-radius: 5px;
+        outline: none;
+        padding-left: 10px;
+   
+}
+
+.ActiveBtn {
+    background-color: rgb(211, 186, 153);
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.activeMemberStyle form {
+    padding: 12px;
+    border: 2px solid pink;
+}

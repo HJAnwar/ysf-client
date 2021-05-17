@@ -1,0 +1,23 @@
+.AllEducationForm input {
+   width: 400px;
+   height: 40px;
+   border-radius: 5px;
+   outline: none;
+   margin-bottom: 5px;
+   margin-top: 5px;
+}
+.textarea {
+   width: 400px;
+   outline: none;
+   border-radius: 5px;
+   margin-top: 5px;
+   margin-bottom: 5px;
+
+
+}
+
+.inputFile{
+   background-color: antiquewhite;
+   color: blue;
+   border: none;
+}

@@ -1,0 +1,35 @@
+.LearnMoreBtn{
+    border: none;
+}
+
+.LearnMoreBtnLink{
+    text-decoration: none;
+    border-bottom: none;
+    color: black;
+}
+
+.LearnMoreBtntwo{
+    border:none;
+    margin-right: 30px;
+    background-color: #AE206A;
+    color:white;
+    font-weight: bolder;
+    padding: 12px;
+    border-radius: 2px;
+}
+
+.LinkStyle{
+    text-decoration: none;
+    margin-left: 10px;
+    background-color: burlywood;
+    padding: 10px;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    border-radius: 5px;
+
+}
+
+.hrStyle{
+    background-color: rgb(19, 18, 18);
+}
